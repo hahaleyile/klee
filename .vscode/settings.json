@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.bean": "beancount",
+        "*.tcc": "cpp",
+        "string": "cpp"
+    }
+}
