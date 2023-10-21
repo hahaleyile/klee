@@ -4,5 +4,11 @@
         "*.bean": "beancount",
         "*.tcc": "cpp",
         "string": "cpp"
+    },
+    "cmake.configureSettings": {
+        "ENABLE_SOLVER_Z3":"ON",
+        "ENABLE_POSIX_RUNTIME":"ON",
+        "ENABLE_UNIT_TESTS":"OFF",
+        "KLEE_UCLIBC_PATH":"/klee-uclibc"
     }
 }
